@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-10-26 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase into a queryable knowledge graph for free with Graphify! | GitHub (free) |
 | 2026-10-25 | [Why AI Language Is Getting Harder to Read](https://arxiv.org/abs/2610.29162) | Why reading AI text actually makes your brain work harder 🧠 #ai #tech #science #chatgpt |  |
 | 2026-10-25 | [orca](https://github.com/stablyai/orca) | Run a fleet of AI coding agents for free with Orca. 🤖💻 #ai #coding #opensource #developer #github | GitHub (free) |
 | 2026-10-25 | [hallmark](https://github.com/Nutlope/hallmark) | Claude Code and Cursor finally have an anti-slop design skill. Here is Hallmark. | GitHub |
