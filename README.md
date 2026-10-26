@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-10-26 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Turn your AI coding agent into a video production engine with HyperFrames! 🎬 #aitools #coding #developer #opensource | GitHub (free) |
 | 2026-10-26 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | How to let your AI agents browse behind login walls for free with Agent-Reach 👇 | GitHub (free) |
 | 2026-10-26 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase into a queryable knowledge graph for free with Graphify! | GitHub (free) |
 | 2026-10-25 | [Why AI Language Is Getting Harder to Read](https://arxiv.org/abs/2610.29162) | Why reading AI text actually makes your brain work harder 🧠 #ai #tech #science #chatgpt |  |
