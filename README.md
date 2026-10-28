@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-10-28 | [Postiz](https://github.com/gitroomhq/postiz-app) | Stop paying monthly fees for Buffer or Hootsuite. Postiz is open source with built-in MCP agent support. | GitHub (free) |
 | 2026-10-28 | [Impeccable](https://github.com/pbakaus/impeccable) | Stop letting Claude and Cursor build generic purple gradient websites. 🛠️ | GitHub (free) |
 | 2026-10-26 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Turn your AI coding agent into a video production engine with HyperFrames! 🎬 #aitools #coding #developer #opensource | GitHub (free) |
 | 2026-10-26 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | How to let your AI agents browse behind login walls for free with Agent-Reach 👇 | GitHub (free) |
