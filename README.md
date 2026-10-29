@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-10-29 | [Taste Skill](https://github.com/Leonxlnx/taste-skill) | Stop letting your AI build generic landing pages. Taste Skill gives Claude Code and Cursor actual design taste. Are your AI sites looking re | GitHub (free) |
 | 2026-10-28 | [openbot](https://github.com/nightly-labs/openbot) | Run Claude, Codex and Grok together with OpenBot. What AI agents will you run first? | GitHub (free) |
 | 2026-10-28 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) | Stop paying for SEO agencies. Claude-seo runs a 19-agent audit in 15 minutes inside your terminal. Is your site ready for AI search? | GitHub (free) |
 | 2026-10-28 | [magpie](https://github.com/yetone/magpie) | Magpie: Use one sub for EVERY AI agent. Claude logic, DeepSeek prices. 🚀 | GitHub (free) |
