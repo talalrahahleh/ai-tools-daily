@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-10-30 | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Turn your coding agent into Cloudflare's security auditor with security-audit-skill. Would you trust an AI agent to find zero-days? | GitHub (free) |
 | 2026-10-30 | [Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) | Anthropic open-sourced Knowledge Work Plugins to turn Claude into a specialist for your exact job. Which role would you automate first? | GitHub (free) |
 | 2026-10-30 | [universal-modder](https://github.com/rehan-remade/universal-modder) | Mod any PC game instantly with AI! 🎮✨ universal-modder on GitHub. | GitHub (free) |
 | 2026-10-29 | [claude-mem](https://github.com/thedotmack/claude-mem) | Claude-mem gives your AI agents a persistent brain so they never forget your project history. Are you tired of re-explaining your code every | GitHub (free) |
