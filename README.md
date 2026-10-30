@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-10-30 | [universal-modder](https://github.com/rehan-remade/universal-modder) | Mod any PC game instantly with AI! 🎮✨ universal-modder on GitHub. | GitHub (free) |
 | 2026-10-29 | [claude-mem](https://github.com/thedotmack/claude-mem) | Claude-mem gives your AI agents a persistent brain so they never forget your project history. Are you tired of re-explaining your code every | GitHub (free) |
 | 2026-10-29 | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Build games with 49 specialized AI agents using Claude-Code-Game-Studios. Is it finally time to finish your indie game? | GitHub (free) |
 | 2026-10-29 | [Taste Skill](https://github.com/Leonxlnx/taste-skill) | Stop letting your AI build generic landing pages. Taste Skill gives Claude Code and Cursor actual design taste. Are your AI sites looking re | GitHub (free) |
