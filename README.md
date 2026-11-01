@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-02 | [Qwen Image 2.1 Realtime](https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime) | Generates AI images instantly as you type! Free on Hugging Face 🚀 #aitools #ai #qwen #tech | Hugging Face (free) |
 | 2026-11-02 | [Handy](https://github.com/cjpais/Handy) | Handy gives you completely offline speech-to-text directly on your computer. Would you ditch cloud dictation for this? | GitHub (free) |
 | 2026-11-01 | [Cursor Security Check](https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/) | Fake Claude Code extension found in Cursor marketplace affecting 5,000 users. Check your extensions now! | app (free) |
 | 2026-10-30 | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Turn your coding agent into Cloudflare's security auditor with security-audit-skill. Would you trust an AI agent to find zero-days? | GitHub (free) |
