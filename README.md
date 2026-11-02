@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-02 | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | agent-desktop: Full AI control of your desktop with 60 native commands. Would you trust an AI to run your computer? | GitHub (free) |
 | 2026-11-02 | [Mika](https://github.com/wangzan101/Mika) | Mika is a free Android AI agent that operates your apps in the background. What app would you automate first? | GitHub (free) |
 | 2026-11-02 | [FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken turns your gaming PC into an AI powerhouse. Run massive 290B models locally for $0. Check it out on GitHub at flashml.ai. | GitHub (free) |
 | 2026-11-02 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents deploys a full multi-agent LLM trading firm to simulate financial markets. Would you trust AI market analysis? | GitHub (free) |
