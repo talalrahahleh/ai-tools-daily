@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-03 | [Heretic](https://github.com/p-e-w/heretic) | Heretic removes AI censorship and suppresses slop on your gaming PC without training. What's the first thing you'd unfilter? | GitHub (free) |
 | 2026-11-03 | [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | Find any photo's location within 2 meters using geo-sleuth and AI agents. No GPS data needed. What's the first photo you're going to scan? | GitHub (free) |
 | 2026-11-02 | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | agent-desktop: Full AI control of your desktop with 60 native commands. Would you trust an AI to run your computer? | GitHub (free) |
 | 2026-11-02 | [Mika](https://github.com/wangzan101/Mika) | Mika is a free Android AI agent that operates your apps in the background. What app would you automate first? | GitHub (free) |
