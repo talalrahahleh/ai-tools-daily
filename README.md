@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-04 | [OpenMontage](https://github.com/calesthio/OpenMontage) | OpenMontage turns Claude Code and Cursor into an agentic video studio that writes, edits, and renders. Would you let AI edit your videos? | GitHub (free) |
 | 2026-11-03 | [colibri](https://github.com/JustVugg/colibri) | Run 744B AI models on 8GB RAM with colibri. Free and open source on GitHub! | GitHub (free) |
 | 2026-11-03 | [Heretic](https://github.com/p-e-w/heretic) | Heretic removes AI censorship and suppresses slop on your gaming PC without training. What's the first thing you'd unfilter? | GitHub (free) |
 | 2026-11-03 | [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | Find any photo's location within 2 meters using geo-sleuth and AI agents. No GPS data needed. What's the first photo you're going to scan? | GitHub (free) |
