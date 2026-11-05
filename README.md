@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-05 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Scenario Skills: Teach Claude Code to build 3D models and game assets. Can your AI code a game yet? | GitHub (free) |
 | 2026-11-05 | [Ripple-65B](https://www.ricursive.com/ripple) | This 65B model is embarrassing the giants. 💻 Ripple-65B is the new king of open-weight coding. | Hugging Face (free) |
 | 2026-11-05 | [Coucou](https://github.com/Louis-CFM/coucou) | Coucou monitors your AI agents in your notch and lets you approve Claude Code actions from your phone. Would you use this? | GitHub (free) |
 | 2026-11-04 | [gstack](https://github.com/garrytan/gstack) | Turn Claude Code into a virtual dev team with Garry Tan's gstack. | GitHub (free) |
