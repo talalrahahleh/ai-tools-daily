@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-06 | [LFM3 Omni 2B WebGPU](https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU) | Run a 2.17B multimodal AI directly in your browser with no installation! 🤯 | Hugging Face (free) |
 | 2026-11-06 | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | Stop AI hallucinations with Auto Ontology on GitHub! 🚀 | GitHub (free) |
 | 2026-11-05 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Scenario Skills: Teach Claude Code to build 3D models and game assets. Can your AI code a game yet? | GitHub (free) |
 | 2026-11-05 | [Ripple-65B](https://www.ricursive.com/ripple) | This 65B model is embarrassing the giants. 💻 Ripple-65B is the new king of open-weight coding. | Hugging Face (free) |
