@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-06 | [worktrunk](https://github.com/max-sixty/worktrunk) | Stop struggling with Git worktrees. Use Worktrunk to manage 10+ AI agents in parallel. Ready to speed up your coding workflow? | GitHub (free) |
 | 2026-11-06 | [LFM3 Omni 2B WebGPU](https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU) | Run a 2.17B multimodal AI directly in your browser with no installation! 🤯 | Hugging Face (free) |
 | 2026-11-06 | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | Stop AI hallucinations with Auto Ontology on GitHub! 🚀 | GitHub (free) |
 | 2026-11-05 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Scenario Skills: Teach Claude Code to build 3D models and game assets. Can your AI code a game yet? | GitHub (free) |
