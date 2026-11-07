@@ -4,6 +4,8 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-07 | [Idol](https://huggingface.co/spaces/speridlabs/idol) | Turn any flat 2D picture into an interactive 3D model for free in your browser with Idol AI. | Hugging Face (free) |
+| 2026-11-07 | [roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Connect Claude and Cursor to Roblox Studio with roblox-studio-mcp to automate scripts and playtests. Would you let AI code your game? | GitHub (free) |
 | 2026-11-06 | [worktrunk](https://github.com/max-sixty/worktrunk) | Stop struggling with Git worktrees. Use Worktrunk to manage 10+ AI agents in parallel. Ready to speed up your coding workflow? | GitHub (free) |
 | 2026-11-06 | [LFM3 Omni 2B WebGPU](https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU) | Run a 2.17B multimodal AI directly in your browser with no installation! 🤯 | Hugging Face (free) |
 | 2026-11-06 | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | Stop AI hallucinations with Auto Ontology on GitHub! 🚀 | GitHub (free) |
