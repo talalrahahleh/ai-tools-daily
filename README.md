@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-08 | [Astryx](https://github.com/meta/astryx) | Meta just open-sourced Astryx, a design system with 150+ components built for AI agents. Will you try it with React 19? | GitHub (free) |
 | 2026-11-08 | [agent-browser](https://github.com/vercel-labs/agent-browser) | agent-browser gives your AI agent full browser automation right from the shell. What website would you automate first? | GitHub (free) |
 | 2026-11-08 | [humanizer](https://github.com/blader/humanizer) | humanizer fixes robotic AI writing using 26 rules from Wikipedia. Will your team notice the difference? | GitHub (free) |
 | 2026-11-07 | [superpowers](https://github.com/obra/superpowers) | Stop your AI agent from writing broken code. Superpowers gives Claude Code and Cursor strict engineering workflows. Does your agent write te | GitHub (free) |
