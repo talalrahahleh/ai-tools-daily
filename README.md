@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-08 | [humanizer](https://github.com/blader/humanizer) | humanizer fixes robotic AI writing using 26 rules from Wikipedia. Will your team notice the difference? | GitHub (free) |
 | 2026-11-07 | [superpowers](https://github.com/obra/superpowers) | Stop your AI agent from writing broken code. Superpowers gives Claude Code and Cursor strict engineering workflows. Does your agent write te | GitHub (free) |
 | 2026-11-07 | [Idol](https://huggingface.co/spaces/speridlabs/idol) | Turn any flat 2D picture into an interactive 3D model for free in your browser with Idol AI. | Hugging Face (free) |
 | 2026-11-07 | [roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Connect Claude and Cursor to Roblox Studio with roblox-studio-mcp to automate scripts and playtests. Would you let AI code your game? | GitHub (free) |
