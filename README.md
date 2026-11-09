@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-09 | [BenchUp](https://ketchup3d.github.io/app/) | BenchUp lets you design 3D furniture in your browser for free with no account needed. What custom build are you making first? | GitHub (free) |
 | 2026-11-09 | [pr-agent](https://github.com/The-PR-Agent/pr-agent) | PR Agent: The open-source way to automate your code reviews in 30 seconds. Why wait for a human to check your work?  | GitHub (free) |
 | 2026-11-09 | [llama-modchip](https://github.com/synchopate/llama-modchip) | llama-modchip: Run 284B DeepSeek on standard RAM. Tired of buying expensive GPUs? Run the biggest models on CPU for free. | GitHub (free) |
 | 2026-11-08 | [Astryx](https://github.com/meta/astryx) | Meta just open-sourced Astryx, a design system with 150+ components built for AI agents. Will you try it with React 19? | GitHub (free) |
