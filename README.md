@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-09 | [llama-modchip](https://github.com/synchopate/llama-modchip) | llama-modchip: Run 284B DeepSeek on standard RAM. Tired of buying expensive GPUs? Run the biggest models on CPU for free. | GitHub (free) |
 | 2026-11-08 | [Astryx](https://github.com/meta/astryx) | Meta just open-sourced Astryx, a design system with 150+ components built for AI agents. Will you try it with React 19? | GitHub (free) |
 | 2026-11-08 | [agent-browser](https://github.com/vercel-labs/agent-browser) | agent-browser gives your AI agent full browser automation right from the shell. What website would you automate first? | GitHub (free) |
 | 2026-11-08 | [humanizer](https://github.com/blader/humanizer) | humanizer fixes robotic AI writing using 26 rules from Wikipedia. Will your team notice the difference? | GitHub (free) |
