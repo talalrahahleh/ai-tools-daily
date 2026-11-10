@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-10 | [earshot](https://github.com/Leonxlnx/earshot) | Open-source Earshot lets AI coding agents hear, review, and make sound locally on your CPU for free! | GitHub (free) |
 | 2026-11-10 | [Claude Fable 5.2](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2) | Claude Fable 5.2 is here and it’s solving centuries-old math problems in 30 hours. Is this the end of human engineers? | app |
 | 2026-11-10 | [BLA](https://github.com/qybaihe/bla) | BLA protects your code from being cloned by AI agents for pennies. Is your software actually secure from bots? | GitHub (free) |
 | 2026-11-09 | [BenchUp](https://ketchup3d.github.io/app/) | BenchUp lets you design 3D furniture in your browser for free with no account needed. What custom build are you making first? | GitHub (free) |
