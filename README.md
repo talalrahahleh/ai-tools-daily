@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-11 | [Harbor](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) | Apple's leaked Harbor app turns your Macs into a private AI cluster. Pool your memory over Thunderbolt 5 and skip the cloud. Ready to upgrad | app |
 | 2026-11-11 | [improve](https://github.com/shadcn/improve) | shadcn/improve cuts your AI coding bills by using elite models for thinking and cheap ones for doing. Ready to automate your code audits? | GitHub (free) |
 | 2026-11-11 | [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | ha-mcp lets you control and automate Home Assistant using Claude and ChatGPT. Would you let AI manage your smart home? | GitHub (free) |
 | 2026-11-10 | [earshot](https://github.com/Leonxlnx/earshot) | Open-source Earshot lets AI coding agents hear, review, and make sound locally on your CPU for free! | GitHub (free) |
