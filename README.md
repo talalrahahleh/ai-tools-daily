@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-12 | [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | Cut your AI coding agent costs by up to 30.9% automatically using TokenEconomizer! Will you try this open source plugin? | GitHub (free) |
 | 2026-11-12 | [mattpocock/skills](https://github.com/mattpocock/skills) | Stop AI coding agents from guessing what to build with Matt Pocock's skills repository! | GitHub (free) |
 | 2026-11-11 | [Harbor](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) | Apple's leaked Harbor app turns your Macs into a private AI cluster. Pool your memory over Thunderbolt 5 and skip the cloud. Ready to upgrad | app |
 | 2026-11-11 | [improve](https://github.com/shadcn/improve) | shadcn/improve cuts your AI coding bills by using elite models for thinking and cheap ones for doing. Ready to automate your code audits? | GitHub (free) |
