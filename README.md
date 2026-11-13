@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-13 | [OpenBot](https://github.com/CopilotKit/OpenBot) | OpenBot gives your AI coworkers their own browser, files, and approval controls for free on Mac or Windows. Which task are you handing off f | GitHub (free) |
 | 2026-11-13 | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code for free across 61 AI providers with this open-source router. | GitHub (free) |
 | 2026-11-12 | [project-maya](https://github.com/mw00/project-maya) | Run massive 744B AI models locally on your own GPUs with project-maya! What GPU are you running? | GitHub (free) |
 | 2026-11-12 | [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | Cut your AI coding agent costs by up to 30.9% automatically using TokenEconomizer! Will you try this open source plugin? | GitHub (free) |
