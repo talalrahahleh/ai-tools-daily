@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-14 | [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance-src) | Chrome, Edge, Firefox, and MDN built 250 free skills so AI agents stop writing bloated legacy code. Which legacy JS hack annoys you most? | GitHub (free) |
 | 2026-11-13 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic just open-sourced the REAL tech behind Claude’s document skills. 🚀 #anthropic #claudeai #opensource | GitHub (free) |
 | 2026-11-13 | [OpenBot](https://github.com/CopilotKit/OpenBot) | OpenBot gives your AI coworkers their own browser, files, and approval controls for free on Mac or Windows. Which task are you handing off f | GitHub (free) |
 | 2026-11-13 | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code for free across 61 AI providers with this open-source router. | GitHub (free) |
