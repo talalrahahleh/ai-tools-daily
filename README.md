@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-14 | [codex-security](https://github.com/openai/codex-security) | OpenAI released codex-security to automatically scan and patch code vulnerabilities. Will you trust AI to fix your security flaws? | GitHub (free) |
 | 2026-11-14 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Google devs built an open-source plugin that catches AI coding blind spots. #ai #coding #github | GitHub (free) |
 | 2026-11-14 | [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance-src) | Chrome, Edge, Firefox, and MDN built 250 free skills so AI agents stop writing bloated legacy code. Which legacy JS hack annoys you most? | GitHub (free) |
 | 2026-11-13 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic just open-sourced the REAL tech behind Claude’s document skills. 🚀 #anthropic #claudeai #opensource | GitHub (free) |
