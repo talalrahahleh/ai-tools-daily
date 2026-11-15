@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-15 | [Open Code Review](https://github.com/alibaba/open-code-review) | Open Code Review from Alibaba beats Claude Code review precision using 1/9 the tokens. Would you trust AI to review your PRs? | GitHub (free) |
 | 2026-11-15 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | chrome-devtools-mcp lets Claude Code and Cursor inspect and debug live Chrome automatically. Which coding agent do you use? | GitHub (free) |
 | 2026-11-14 | [codex-security](https://github.com/openai/codex-security) | OpenAI released codex-security to automatically scan and patch code vulnerabilities. Will you trust AI to fix your security flaws? | GitHub (free) |
 | 2026-11-14 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Google devs built an open-source plugin that catches AI coding blind spots. #ai #coding #github | GitHub (free) |
