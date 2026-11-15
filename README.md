@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-16 | [Plannotator](https://github.com/backnotprop/plannotator) | Plannotator gives Claude Code and AI coding agents a visual review inbox in your browser. Do you review agent plans or let them run? | GitHub (free) |
 | 2026-11-15 | [ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | ai--manus2.0 runs autonomous browser tasks and code on basic hardware. What tedious web task would you automate first? | GitHub (free) |
 | 2026-11-15 | [Open Code Review](https://github.com/alibaba/open-code-review) | Open Code Review from Alibaba beats Claude Code review precision using 1/9 the tokens. Would you trust AI to review your PRs? | GitHub (free) |
 | 2026-11-15 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | chrome-devtools-mcp lets Claude Code and Cursor inspect and debug live Chrome automatically. Which coding agent do you use? | GitHub (free) |
