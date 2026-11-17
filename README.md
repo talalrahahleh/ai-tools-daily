@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-17 | [AG-UI](https://github.com/ag-ui-protocol/ag-ui) | AG-UI connects any AI agent to your frontend with 31 built-in event types. How are you building agent UIs? | GitHub (free) |
 | 2026-11-16 | [MiniMax-H3-Image](https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image) | Blend and edit multiple images in just 6 steps right inside your browser with MiniMax-H3-Image on Hugging Face Spaces! | Hugging Face (free) |
 | 2026-11-16 | [Univer](https://github.com/dream-num/univer) | Univer lets you embed open-source spreadsheets and docs right into your web app. Would you use this for your AI agents? | GitHub (free) |
 | 2026-11-16 | [Plannotator](https://github.com/backnotprop/plannotator) | Plannotator gives Claude Code and AI coding agents a visual review inbox in your browser. Do you review agent plans or let them run? | GitHub (free) |
