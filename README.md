@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-17 | [vercel-labs/ui](https://github.com/vercel-labs/ui) | Vercel lets AI build UIs across 5 frameworks with UI SDK! | GitHub (free) |
 | 2026-11-17 | [expo/exact](https://github.com/expo/exact) | Stop rewriting everything and write it once. 🚀 Build natively on 6 platforms with Exact. #AItools #coding #opensource #programming | GitHub (free) |
 | 2026-11-17 | [AG-UI](https://github.com/ag-ui-protocol/ag-ui) | AG-UI connects any AI agent to your frontend with 31 built-in event types. How are you building agent UIs? | GitHub (free) |
 | 2026-11-16 | [MiniMax-H3-Image](https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image) | Blend and edit multiple images in just 6 steps right inside your browser with MiniMax-H3-Image on Hugging Face Spaces! | Hugging Face (free) |
