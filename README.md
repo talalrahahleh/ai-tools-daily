@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-18 | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Get 83 bug hunting skills in Claude Code for free with Claude-BugHunter. Will you try it? | GitHub (free) |
 | 2026-11-18 | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Analyze markets fast with Claude Trading Skills on GitHub. Save this and follow for daily tools! | GitHub (free) |
 | 2026-11-18 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | Research anyone across Reddit, X, and YouTube in seconds with last30days-skill. Is Google search finally dead? | GitHub (free) |
 | 2026-11-17 | [vercel-labs/ui](https://github.com/vercel-labs/ui) | Vercel lets AI build UIs across 5 frameworks with UI SDK! | GitHub (free) |
