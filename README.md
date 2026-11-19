@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-19 | [n8n](https://github.com/n8n-io/n8n) | Build AI agents across 1,500 apps for free with n8n. Self-hosted, no lock-in. | GitHub (free) |
 | 2026-11-19 | [PaperOrchestra](https://github.com/google-research/paper-orchestra) | Google Research AI writes full LaTeX papers automatically! 📄🤖 #aitools #research #paperorchestra #github | GitHub (free) |
 | 2026-11-18 | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Get 83 bug hunting skills in Claude Code for free with Claude-BugHunter. Will you try it? | GitHub (free) |
 | 2026-11-18 | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Analyze markets fast with Claude Trading Skills on GitHub. Save this and follow for daily tools! | GitHub (free) |
