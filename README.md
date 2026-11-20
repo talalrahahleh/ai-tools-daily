@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-20 | [Linger](https://github.com/simplexai-labs/linger) | Run a 125B AI model locally on a 12GB GPU with Linger! Free, open-source personal AI agent. 🚀 | GitHub (free) |
 | 2026-11-20 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Turn plain prompts into brand-matched HTML & SVG diagrams in seconds (free & open-source). #aitools #claudecode #coding | GitHub (free) |
 | 2026-11-20 | [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Claude Code now cuts silences, adds karaoke captions & crops 9:16 locally with ffmpeg-skill (free & open source). | GitHub (free) |
 | 2026-11-19 | [Project Genie](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/) | Google Genie 4 creates interactive 3D worlds from just a prompt. Ready to build your own game without coding?  | website |
