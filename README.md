@@ -4,11 +4,11 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-21 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Turn plain prompts into brand-matched HTML & SVG diagrams in seconds (free & open-source). #aitools #claudecode #coding | GitHub (free) |
 | 2026-11-21 | [LTX 2.3 10Eros](https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros) | Turn any photo into a movie scene with instant native audio using Hugging Face LTX 2.3! | Hugging Face (free) |
 | 2026-11-21 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-21 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Control any desktop app with open-source AI agents using CLI-Anything. | GitHub (free) |
 | 2026-11-20 | [Linger](https://github.com/simplexai-labs/linger) | Run a 125B AI model locally on a 12GB GPU with Linger! Free, open-source personal AI agent. 🚀 | GitHub (free) |
-| 2026-11-20 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Turn plain prompts into brand-matched HTML & SVG diagrams in seconds (free & open-source). #aitools #claudecode #coding | GitHub (free) |
 | 2026-11-20 | [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Claude Code now cuts silences, adds karaoke captions & crops 9:16 locally with ffmpeg-skill (free & open source). | GitHub (free) |
 | 2026-11-19 | [Project Genie](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/) | Google Genie 4 creates interactive 3D worlds from just a prompt. Ready to build your own game without coding?  | website |
 | 2026-11-19 | [n8n](https://github.com/n8n-io/n8n) | Build AI agents across 1,500 apps for free with n8n. Self-hosted, no lock-in. | GitHub (free) |
