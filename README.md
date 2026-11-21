@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-21 | [LTX 2.3 10Eros](https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros) | Turn any photo into a movie scene with instant native audio using Hugging Face LTX 2.3! | Hugging Face (free) |
 | 2026-11-21 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-21 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Control any desktop app with open-source AI agents using CLI-Anything. | GitHub (free) |
 | 2026-11-20 | [Linger](https://github.com/simplexai-labs/linger) | Run a 125B AI model locally on a 12GB GPU with Linger! Free, open-source personal AI agent. 🚀 | GitHub (free) |
