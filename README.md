@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-22 | [neonclipping](https://github.com/iamajmeena/neonclipping) | Stop manual editing. ✂️ This free AI tool clips 3-hour VODs in seconds. No subscription required. | GitHub (free) |
 | 2026-11-21 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Turn plain prompts into brand-matched HTML & SVG diagrams in seconds (free & open-source). #aitools #claudecode #coding | GitHub (free) |
 | 2026-11-21 | [LTX 2.3 10Eros](https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros) | Turn any photo into a movie scene with instant native audio using Hugging Face LTX 2.3! | Hugging Face (free) |
 | 2026-11-21 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
