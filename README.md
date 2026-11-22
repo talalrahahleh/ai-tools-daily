@@ -4,12 +4,12 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-22 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-22 | [Slack Moji](https://huggingface.co/spaces/cfahlgren1/slack-moji) | Slack Moji paints custom emoji in your browser using an int8 ONNX model in 1 second. Try it on Hugging Face. What emoji will you make first? | Hugging Face (free) |
 | 2026-11-22 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | This Free Tool turns live websites into Claude design skills. Google's stitch-skills library handles React, React Native, and even generates | GitHub (free) |
 | 2026-11-22 | [neonclipping](https://github.com/iamajmeena/neonclipping) | Stop manual editing. ✂️ This free AI tool clips 3-hour VODs in seconds. No subscription required. | GitHub (free) |
 | 2026-11-21 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Turn plain prompts into brand-matched HTML & SVG diagrams in seconds (free & open-source). #aitools #claudecode #coding | GitHub (free) |
 | 2026-11-21 | [LTX 2.3 10Eros](https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros) | Turn any photo into a movie scene with instant native audio using Hugging Face LTX 2.3! | Hugging Face (free) |
-| 2026-11-21 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-21 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Control any desktop app with open-source AI agents using CLI-Anything. | GitHub (free) |
 | 2026-11-20 | [Linger](https://github.com/simplexai-labs/linger) | Run a 125B AI model locally on a 12GB GPU with Linger! Free, open-source personal AI agent. 🚀 | GitHub (free) |
 | 2026-11-20 | [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Claude Code now cuts silences, adds karaoke captions & crops 9:16 locally with ffmpeg-skill (free & open source). | GitHub (free) |
