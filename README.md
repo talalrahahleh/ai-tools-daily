@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-23 | [Tessera Pixel Studio](https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio) | Generate pro pixel art in 16 steps. No design skills? No problem. 🎮 | Hugging Face (free) |
 | 2026-11-22 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-22 | [Slack Moji](https://huggingface.co/spaces/cfahlgren1/slack-moji) | Slack Moji paints custom emoji in your browser using an int8 ONNX model in 1 second. Try it on Hugging Face. What emoji will you make first? | Hugging Face (free) |
 | 2026-11-22 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | This Free Tool turns live websites into Claude design skills. Google's stitch-skills library handles React, React Native, and even generates | GitHub (free) |
