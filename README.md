@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-23 | [opensre](https://github.com/Tracer-Cloud/opensre) | OpenSRE investigates failed CI runs and pushes fixes automatically. Free on GitHub. Will you try it? | GitHub (free) |
 | 2026-11-23 | [OpenVINO](https://github.com/openvinotoolkit/openvino) | Run YOLOv11 and LLaVa on a basic laptop? 🤯 Intel’s OpenVINO just killed the need for a $2000 GPU. | GitHub (free) |
 | 2026-11-23 | [Tessera Pixel Studio](https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio) | Generate pro pixel art in 16 steps. No design skills? No problem. 🎮 | Hugging Face (free) |
 | 2026-11-22 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
