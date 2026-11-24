@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-24 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
 | 2026-11-24 | [SoduWork](https://github.com/mdiri-ai/SoduWork) | SoduWork lets AI agents do the work while another agent reviews it. Search SoduWork on GitHub! | GitHub (free) |
 | 2026-11-23 | [opensre](https://github.com/Tracer-Cloud/opensre) | OpenSRE investigates failed CI runs and pushes fixes automatically. Free on GitHub. Will you try it? | GitHub (free) |
 | 2026-11-23 | [OpenVINO](https://github.com/openvinotoolkit/openvino) | Run YOLOv11 and LLaVa on a basic laptop? 🤯 Intel’s OpenVINO just killed the need for a $2000 GPU. | GitHub (free) |
