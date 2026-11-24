@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-25 | [Claude Artifacts](https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/) | Turn any AI prompt into a standalone desktop app with Claude Artifacts for $0! No coding required. | app (free) |
 | 2026-11-24 | [Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian) | Stop getting banned! Claude-Guardian uses AI agents to secure your network and account setup. Ever lost a Claude account? | GitHub (free) |
 | 2026-11-24 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
 | 2026-11-24 | [SoduWork](https://github.com/mdiri-ai/SoduWork) | SoduWork lets AI agents do the work while another agent reviews it. Search SoduWork on GitHub! | GitHub (free) |
