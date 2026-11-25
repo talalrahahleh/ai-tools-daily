@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-25 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | This Free Tool turns live websites into Claude design skills. Google's stitch-skills library handles React, React Native, and even generates | GitHub (free) |
 | 2026-11-25 | [Harness Leaderboard](https://huggingface.co/spaces/joelniklaus/harness-leaderboard) | Find the best coding agent harness for your model using Harness Leaderboard on Hugging Face. Which harness do you use? | Hugging Face (free) |
 | 2026-11-25 | [songe](https://github.com/sous-labs/songe) | Train your local AI automatically using your idle computer power with Songe. Search songe on GitHub to get started! How often do you run loc | GitHub (free) |
 | 2026-11-25 | [Claude Artifacts](https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/) | Turn any AI prompt into a standalone desktop app with Claude Artifacts for $0! No coding required. | app (free) |
@@ -15,7 +16,6 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 | 2026-11-23 | [Tessera Pixel Studio](https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio) | Generate pro pixel art in 16 steps. No design skills? No problem. 🎮 | Hugging Face (free) |
 | 2026-11-22 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-22 | [Slack Moji](https://huggingface.co/spaces/cfahlgren1/slack-moji) | Slack Moji paints custom emoji in your browser using an int8 ONNX model in 1 second. Try it on Hugging Face. What emoji will you make first? | Hugging Face (free) |
-| 2026-11-22 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | This Free Tool turns live websites into Claude design skills. Google's stitch-skills library handles React, React Native, and even generates | GitHub (free) |
 | 2026-11-22 | [neonclipping](https://github.com/iamajmeena/neonclipping) | Stop manual editing. ✂️ This free AI tool clips 3-hour VODs in seconds. No subscription required. | GitHub (free) |
 | 2026-11-21 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Turn plain prompts into brand-matched HTML & SVG diagrams in seconds (free & open-source). #aitools #claudecode #coding | GitHub (free) |
 | 2026-11-21 | [LTX 2.3 10Eros](https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros) | Turn any photo into a movie scene with instant native audio using Hugging Face LTX 2.3! | Hugging Face (free) |
