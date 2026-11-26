@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-27 | [obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | Connect your AI agent directly to Obsidian with obsidian-skills. No more copy-pasting notes! What would you ask your notes first? | GitHub (free) |
 | 2026-11-26 | [Voice Isolator](https://huggingface.co/spaces/mrfakename/voice-isolator) | Inworld Voice Isolator cleans background noise from your files or live mic for free. Better audio in one click?  | Hugging Face (free) |
 | 2026-11-26 | [openset-llm](https://github.com/opensetlabs/openset-llm) | openset-llm runs a 27B AI model on an 8 GB CPU with no GPU and an OpenAI API. Would you host your own AI locally? | GitHub (free) |
 | 2026-11-26 | [OpenVINO](https://github.com/openvinotoolkit/openvino) | Run YOLOv11 and LLaVa on a basic laptop? 🤯 Intel’s OpenVINO just killed the need for a $2000 GPU. | GitHub (free) |
