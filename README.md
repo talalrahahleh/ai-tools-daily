@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-26 | [OpenVINO](https://github.com/openvinotoolkit/openvino) | Run YOLOv11 and LLaVa on a basic laptop? 🤯 Intel’s OpenVINO just killed the need for a $2000 GPU. | GitHub (free) |
 | 2026-11-25 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | This Free Tool turns live websites into Claude design skills. Google's stitch-skills library handles React, React Native, and even generates | GitHub (free) |
 | 2026-11-25 | [Harness Leaderboard](https://huggingface.co/spaces/joelniklaus/harness-leaderboard) | Find the best coding agent harness for your model using Harness Leaderboard on Hugging Face. Which harness do you use? | Hugging Face (free) |
 | 2026-11-25 | [songe](https://github.com/sous-labs/songe) | Train your local AI automatically using your idle computer power with Songe. Search songe on GitHub to get started! How often do you run loc | GitHub (free) |
@@ -12,7 +13,6 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 | 2026-11-24 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
 | 2026-11-24 | [SoduWork](https://github.com/mdiri-ai/SoduWork) | SoduWork lets AI agents do the work while another agent reviews it. Search SoduWork on GitHub! | GitHub (free) |
 | 2026-11-23 | [opensre](https://github.com/Tracer-Cloud/opensre) | OpenSRE investigates failed CI runs and pushes fixes automatically. Free on GitHub. Will you try it? | GitHub (free) |
-| 2026-11-23 | [OpenVINO](https://github.com/openvinotoolkit/openvino) | Run YOLOv11 and LLaVa on a basic laptop? 🤯 Intel’s OpenVINO just killed the need for a $2000 GPU. | GitHub (free) |
 | 2026-11-23 | [Tessera Pixel Studio](https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio) | Generate pro pixel art in 16 steps. No design skills? No problem. 🎮 | Hugging Face (free) |
 | 2026-11-22 | [Krea 2 Turbo Revamped](https://huggingface.co/spaces/waitinghere/Krea2T-Revamped) | Krea 2 Turbo just dropped and it’s a Photoshop killer. 📸 #AI #Krea #ImageEditing #OpenSource | Hugging Face (free) |
 | 2026-11-22 | [Slack Moji](https://huggingface.co/spaces/cfahlgren1/slack-moji) | Slack Moji paints custom emoji in your browser using an int8 ONNX model in 1 second. Try it on Hugging Face. What emoji will you make first? | Hugging Face (free) |
