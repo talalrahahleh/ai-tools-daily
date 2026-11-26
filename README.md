@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-26 | [openset-llm](https://github.com/opensetlabs/openset-llm) | openset-llm runs a 27B AI model on an 8 GB CPU with no GPU and an OpenAI API. Would you host your own AI locally? | GitHub (free) |
 | 2026-11-26 | [OpenVINO](https://github.com/openvinotoolkit/openvino) | Run YOLOv11 and LLaVa on a basic laptop? 🤯 Intel’s OpenVINO just killed the need for a $2000 GPU. | GitHub (free) |
 | 2026-11-25 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | This Free Tool turns live websites into Claude design skills. Google's stitch-skills library handles React, React Native, and even generates | GitHub (free) |
 | 2026-11-25 | [Harness Leaderboard](https://huggingface.co/spaces/joelniklaus/harness-leaderboard) | Find the best coding agent harness for your model using Harness Leaderboard on Hugging Face. Which harness do you use? | Hugging Face (free) |
