@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-27 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
 | 2026-11-27 | [SAG-Wiki](https://github.com/Zleap-AI/SAG-Wiki) | Index 1 million characters in 200ms with SAG-Wiki. Free and open source knowledge base. Have you tried it yet? | GitHub (free) |
 | 2026-11-27 | [MiniMax-H3](https://huggingface.co/spaces/wank3r/minimax-h3) | MiniMax-H3 generates AI video and synced audio 4x faster. Unquantized quality for free in your browser. What will you create first? | Hugging Face (free) |
 | 2026-11-27 | [obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | Connect your AI agent directly to Obsidian with obsidian-skills. No more copy-pasting notes! What would you ask your notes first? | GitHub (free) |
@@ -15,7 +16,6 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 | 2026-11-25 | [songe](https://github.com/sous-labs/songe) | Train your local AI automatically using your idle computer power with Songe. Search songe on GitHub to get started! How often do you run loc | GitHub (free) |
 | 2026-11-25 | [Claude Artifacts](https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/) | Turn any AI prompt into a standalone desktop app with Claude Artifacts for $0! No coding required. | app (free) |
 | 2026-11-24 | [Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian) | Stop getting banned! Claude-Guardian uses AI agents to secure your network and account setup. Ever lost a Claude account? | GitHub (free) |
-| 2026-11-24 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
 | 2026-11-24 | [SoduWork](https://github.com/mdiri-ai/SoduWork) | SoduWork lets AI agents do the work while another agent reviews it. Search SoduWork on GitHub! | GitHub (free) |
 | 2026-11-23 | [opensre](https://github.com/Tracer-Cloud/opensre) | OpenSRE investigates failed CI runs and pushes fixes automatically. Free on GitHub. Will you try it? | GitHub (free) |
 | 2026-11-23 | [Tessera Pixel Studio](https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio) | Generate pro pixel art in 16 steps. No design skills? No problem. 🎮 | Hugging Face (free) |
