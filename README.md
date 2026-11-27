@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-28 | [Create My Widget](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini) | Create My Widget lets Pixel owners build custom Gemini home screen tiles in 20 seconds. What widget would you make first? | app |
 | 2026-11-27 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
 | 2026-11-27 | [SAG-Wiki](https://github.com/Zleap-AI/SAG-Wiki) | Index 1 million characters in 200ms with SAG-Wiki. Free and open source knowledge base. Have you tried it yet? | GitHub (free) |
 | 2026-11-27 | [MiniMax-H3](https://huggingface.co/spaces/wank3r/minimax-h3) | MiniMax-H3 generates AI video and synced audio 4x faster. Unquantized quality for free in your browser. What will you create first? | Hugging Face (free) |
