@@ -4,6 +4,7 @@ Every tool featured in our shorts, newest first. Follow for one useful AI tool a
 
 | Date | Tool | What it does | Where |
 |---|---|---|---|
+| 2026-11-28 | [llama.cpp AMD Benchmark](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench) | The llama.cpp AMD Benchmark dashboard tracks local Qwen and Gemma performance across Radeon hardware before you download. Which local model  | Hugging Face |
 | 2026-11-28 | [SessionGraph](https://sessiongraph.ai/) | SessionGraph maps all your Claude Code, Cursor, and Gemini CLI sessions into one local searchable graph. Which AI coder do you use most? | website |
 | 2026-11-28 | [Create My Widget](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini) | Create My Widget lets Pixel owners build custom Gemini home screen tiles in 20 seconds. What widget would you make first? | app |
 | 2026-11-27 | [Claude Ship](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/) | Anthropic's Claude Ship reviews, fixes, and merges PRs completely automatically. | app |
